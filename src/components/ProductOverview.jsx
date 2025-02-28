@@ -2,6 +2,7 @@
 import React from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import products from './products.json'; 
+import '../styles/productoverview.css';
 
 const ProductOverview = () => {
   const location = useLocation();

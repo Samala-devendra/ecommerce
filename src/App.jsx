@@ -6,7 +6,6 @@ import ProductList from './components/ProductList';
 import PaymentPage from './components/PaymentPage';
 import ProductOverview from './components/ProductOverview'; 
 
-import './App.css';
 
 function App() {
   return (
